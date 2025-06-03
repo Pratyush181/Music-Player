@@ -1,54 +1,41 @@
-<<<<<<< HEAD
-# Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Shazam, Redux)
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+# 🎵 Spotify Clone - Music Player Web App
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+A sleek and functional **Spotify-inspired** music streaming web app. Built with modern web technologies, this project mimics key features of Spotify — including browsing songs, playing tracks, playlists, and a responsive UI.
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
-=======
-🎵 Spotify Clone - Music Player Web App
-A sleek and functional Spotify-inspired music streaming web app. Built with modern web technologies, this project mimics key features of Spotify — including browsing songs, playing tracks, playlists, and responsive UI.
+![Spotify Clone Preview](preview.png) <!-- Add a real image or remove -->
 
-🛠 Tech Stack
-Frontend:
+---
 
-React.js / Next.js
+## 🛠 Tech Stack
 
-Tailwind CSS / Styled Components
+**Frontend:**
 
-Redux / Context API (for state)
+- React.js
+- Tailwind CSS
+- Redux 
+- Fetch API  
+- React Router 
 
-Axios / Fetch (for API requests)
+**Backend :**
 
-React Router / Next Router
+- Node.js + Express  
+- MongoDB / PostgreSQL  
+- Firebase 
 
-Backend (optional):
+**Media & APIs:**
 
-Node.js + Express
+- RapidAPI
+- ShazamCore API
 
-MongoDB / PostgreSQL
+---
 
-Firebase / Supabase / Auth0 (for Auth)
+## ✨ Features
 
-Media:
+- 🎧 Music playback with pause/resume  
+- 🔍 Search for songs, artists, albums  
+- ❤️ Like songs and create playlists  
+- 📱 Fully responsive for all devices  
+- 🔁 Repeat / Shuffle  
+- 🔊 Volume and progress control  
+- 🧑‍🎤 Artist and album details  
 
-REST APIs (e.g., Spotify Web API, Deezer API, or custom DB)
-
-Cloudinary / S3 (for album art & audio hosting)
-
-✨ Features
-🎧 Play/Pause music with smooth controls
-
-📂 Browse and search songs, albums, and artists
-
-❤️ Like songs and save playlists
-
-📱 Fully responsive for mobile and desktop
-
-🔁 Repeat / Shuffle functionality
-
-🔊 Volume control and progress bar
-
-🧑‍🎤 Artist and album details
->>>>>>> dbb083f268d66eed679acf633238b2c56a52f2d5
