@@ -2,7 +2,6 @@
 
 A sleek and functional **Spotify-inspired** music streaming web app. Built with modern web technologies, this project mimics key features of Spotify — including browsing songs, playing tracks, playlists, and a responsive UI.
 
-![Spotify Clone Preview](preview.png) <!-- Add a real image or remove -->
 
 ---
 
